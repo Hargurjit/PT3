@@ -1,0 +1,4 @@
+/home/ubuntu1/Downloads/PT3/PT3/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ubuntu1/Downloads/PT3/PT3/obj/x86/Release/PT3.gtk-gui.gui.stetic
+/home/ubuntu1/Downloads/PT3/PT3/bin/Release/PT3.exe
+/home/ubuntu1/Downloads/PT3/PT3/obj/x86/Release/PT3.exe

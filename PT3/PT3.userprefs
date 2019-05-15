@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9957E40C-13C6-476A-922E-37FFB69C61C2}|Default" StartupItem="PT3/PT3.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PT3/gtk-gui/PT3.Window.cs">
+    <Files>
+      <File FileName="PT3/Program.cs" Line="1" Column="1" />
+      <File FileName="PT3/Database.cs" Line="1" Column="1" />
+      <File FileName="PT3/MainWindow.cs" Line="62" Column="1" />
+      <File FileName="PT3/Userlist.cs" Line="1" Column="1" />
+      <File FileName="PT3/ChatWindow.cs" Line="1" Column="1" />
+      <File FileName="PT3/gtk-gui/PT3.Window.cs" Line="9" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PT3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
